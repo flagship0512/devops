@@ -1,0 +1,13 @@
+C:\Users\mayankmadan\source\repos\devops\devops\bin\Debug\netcoreapp3.1\devops.exe
+C:\Users\mayankmadan\source\repos\devops\devops\bin\Debug\netcoreapp3.1\devops.deps.json
+C:\Users\mayankmadan\source\repos\devops\devops\bin\Debug\netcoreapp3.1\devops.runtimeconfig.json
+C:\Users\mayankmadan\source\repos\devops\devops\bin\Debug\netcoreapp3.1\devops.runtimeconfig.dev.json
+C:\Users\mayankmadan\source\repos\devops\devops\bin\Debug\netcoreapp3.1\devops.dll
+C:\Users\mayankmadan\source\repos\devops\devops\bin\Debug\netcoreapp3.1\devops.pdb
+C:\Users\mayankmadan\source\repos\devops\devops\obj\Debug\netcoreapp3.1\devops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayankmadan\source\repos\devops\devops\obj\Debug\netcoreapp3.1\devops.AssemblyInfoInputs.cache
+C:\Users\mayankmadan\source\repos\devops\devops\obj\Debug\netcoreapp3.1\devops.AssemblyInfo.cs
+C:\Users\mayankmadan\source\repos\devops\devops\obj\Debug\netcoreapp3.1\devops.csproj.CoreCompileInputs.cache
+C:\Users\mayankmadan\source\repos\devops\devops\obj\Debug\netcoreapp3.1\devops.dll
+C:\Users\mayankmadan\source\repos\devops\devops\obj\Debug\netcoreapp3.1\devops.pdb
+C:\Users\mayankmadan\source\repos\devops\devops\obj\Debug\netcoreapp3.1\devops.genruntimeconfig.cache
